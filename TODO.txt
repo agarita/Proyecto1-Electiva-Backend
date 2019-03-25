@@ -1,0 +1,10 @@
+TODO
+
+* Autenticación y autorización.
+    * Login para administradores.
+* Manejo de restaurantes.
+    * Ver listado de restaurantes.
+    * Detalle de restaurante.
+    * Crear, eliminar, modificar y actualizar restaurantes.
+* Manejo de usuarios.
+    * Ver lista de usuarios.
